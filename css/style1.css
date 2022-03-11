@@ -226,6 +226,7 @@ button:focus {
 .top-bar__headline {
   margin: 0;
   font-size: 0.75em;
+  font-weight: bold;
 }
 
 /* Menu button for toggling the sidebar (appears on small screen) */
